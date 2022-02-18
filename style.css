@@ -1,0 +1,15 @@
+
+#yourName{
+    text-align: center;
+}
+body{
+    background-image: url(./light.jpg);
+    background-size: cover;
+}
+form{
+    color: white;
+}
+ h1{
+     color: white;
+     text-align: center;
+ }
